@@ -4,7 +4,9 @@
 
 This is a note application which allows you to create and save notes. Utilizing Express routes to get and save your notes as well as delete them.
 
-![Note Sample](./Develop/public/assets/images/note_sample.png)
+![Note Sample](./public/assets/images/note_sample.png)
+
+## [Note Taker](https://note-taker-sjg.herokuapp.com/)
 
  ## Getting Started:
 
